@@ -16,8 +16,8 @@ All the parts are printed in standard PLA with 15% infill, except for `foot_bott
 - right_roll_to_pitch.stl x1
 - roll_motor_bottom.stl x2
 - roll_motor_top.stl x2
-- trunk_bottom.stl x1
-- trunk_top.stl x1
+- trunk_bottom.stl x1 - IN_PROGRESS
+- trunk_top.stl x1 - IN_PROGRESS
 - neck_left_sheet.stl x1
 - neck_right_sheet.stl x1
 - head_pitch_to_yaw.stl x1
