@@ -91,3 +91,12 @@ If you want to train your own policies, and contribute to making the ducks walk 
 - [ ] Centralize the URDF/MJCF. Separate repo ? Menagerie ? 
 
 > Thanks a lot to HuggingFace and Pollen Robotics for sponsoring this project !
+
+
+***
+
+https://robotics-explained.medium.com/getting-started-with-mujoco-d7d1dd39b9
+
+
+
+
