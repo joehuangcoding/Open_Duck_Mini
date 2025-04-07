@@ -98,5 +98,7 @@ If you want to train your own policies, and contribute to making the ducks walk 
 https://robotics-explained.medium.com/getting-started-with-mujoco-d7d1dd39b9
 
 
+https://github.com/google-deepmind/dm_control?tab=readme-ov-file
+
 
 
