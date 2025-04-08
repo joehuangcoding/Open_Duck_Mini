@@ -13,3 +13,5 @@ https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning/blob/maste
 
 
 https://playground.mujoco.org/
+
+conda activate mujoco_py
