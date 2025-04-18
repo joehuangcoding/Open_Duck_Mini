@@ -20,9 +20,13 @@ conda activate mujoco_py
 * mujoco
 * mujoco-mjx
 * mujoco-playground
-* 
 
 
-
+# sim2real
+1) Create a simulated environment that matches
+the real world.
+2) Encode desired robot behavior with a reward function.
+3) Train a policy in simulation.
+4) Deploy to the robot.
 
 
