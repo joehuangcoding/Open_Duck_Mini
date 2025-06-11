@@ -40,3 +40,10 @@ the real world.
 7. 7.4v to 5v Universal Battery Eliminator Circuit (UBEC) -- or 5v regulator
 8. 3M insert and screw
 9. 
+
+## 12v battery pack and type-c charger
+1. 3s 18650 BMS 12v
+2. type-c charger
+
+
+
